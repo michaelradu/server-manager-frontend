@@ -1,6 +1,6 @@
-# Serverapp
+# Server Manager
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
+Web interface to manage computers on your network.
 
 ## Development server
 
